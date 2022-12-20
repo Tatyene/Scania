@@ -1,0 +1,8 @@
+C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto03_Estruturas\Projeto03_Estruturas\bin\Debug\Projeto03_Estruturas.exe.config
+C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto03_Estruturas\Projeto03_Estruturas\bin\Debug\Projeto03_Estruturas.exe
+C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto03_Estruturas\Projeto03_Estruturas\bin\Debug\Projeto03_Estruturas.pdb
+C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto03_Estruturas\Projeto03_Estruturas\obj\Debug\Projeto03_Estruturas.csproj.AssemblyReference.cache
+C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto03_Estruturas\Projeto03_Estruturas\obj\Debug\Projeto03_Estruturas.csproj.SuggestedBindingRedirects.cache
+C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto03_Estruturas\Projeto03_Estruturas\obj\Debug\Projeto03_Estruturas.csproj.CoreCompileInputs.cache
+C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto03_Estruturas\Projeto03_Estruturas\obj\Debug\Projeto03_Estruturas.exe
+C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto03_Estruturas\Projeto03_Estruturas\obj\Debug\Projeto03_Estruturas.pdb

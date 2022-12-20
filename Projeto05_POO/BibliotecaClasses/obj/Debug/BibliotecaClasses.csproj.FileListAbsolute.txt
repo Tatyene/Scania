@@ -1,0 +1,6 @@
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\BibliotecaClasses\bin\Debug\BibliotecaClasses.dll
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\BibliotecaClasses\bin\Debug\BibliotecaClasses.pdb
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\BibliotecaClasses\obj\Debug\BibliotecaClasses.csproj.AssemblyReference.cache
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\BibliotecaClasses\obj\Debug\BibliotecaClasses.csproj.CoreCompileInputs.cache
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\BibliotecaClasses\obj\Debug\BibliotecaClasses.dll
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\BibliotecaClasses\obj\Debug\BibliotecaClasses.pdb

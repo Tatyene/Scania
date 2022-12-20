@@ -1,0 +1,11 @@
+C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto06_Construtores\Projeto02.Construtores\bin\Debug\Projeto02.Construtores.exe.config
+C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto06_Construtores\Projeto02.Construtores\bin\Debug\Projeto02.Construtores.exe
+C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto06_Construtores\Projeto02.Construtores\bin\Debug\Projeto02.Construtores.pdb
+C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto06_Construtores\Projeto02.Construtores\bin\Debug\BibliotecaClasses.dll
+C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto06_Construtores\Projeto02.Construtores\bin\Debug\BibliotecaClasses.pdb
+C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto06_Construtores\Projeto02.Construtores\obj\Debug\Projeto02.Construtores.csproj.AssemblyReference.cache
+C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto06_Construtores\Projeto02.Construtores\obj\Debug\Projeto02.Construtores.csproj.SuggestedBindingRedirects.cache
+C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto06_Construtores\Projeto02.Construtores\obj\Debug\Projeto02.Construtores.csproj.CoreCompileInputs.cache
+C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto06_Construtores\Projeto02.Construtores\obj\Debug\Projeto02.Construtores.csproj.CopyComplete
+C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto06_Construtores\Projeto02.Construtores\obj\Debug\Projeto02.Construtores.exe
+C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto06_Construtores\Projeto02.Construtores\obj\Debug\Projeto02.Construtores.pdb

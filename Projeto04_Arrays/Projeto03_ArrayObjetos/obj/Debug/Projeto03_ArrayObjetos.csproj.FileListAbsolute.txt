@@ -1,0 +1,8 @@
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto03_ArrayObjetos\bin\Debug\Projeto03_ArrayObjetos.exe.config
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto03_ArrayObjetos\bin\Debug\Projeto03_ArrayObjetos.exe
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto03_ArrayObjetos\bin\Debug\Projeto03_ArrayObjetos.pdb
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto03_ArrayObjetos\obj\Debug\Projeto03_ArrayObjetos.csproj.AssemblyReference.cache
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto03_ArrayObjetos\obj\Debug\Projeto03_ArrayObjetos.csproj.SuggestedBindingRedirects.cache
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto03_ArrayObjetos\obj\Debug\Projeto03_ArrayObjetos.csproj.CoreCompileInputs.cache
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto03_ArrayObjetos\obj\Debug\Projeto03_ArrayObjetos.exe
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto03_ArrayObjetos\obj\Debug\Projeto03_ArrayObjetos.pdb

@@ -1,0 +1,8 @@
+C:\ProjetoAula\04_ProgramandoComCSharpe\Projeto07_Interfaces\Projeto03.Listas\bin\Debug\Projeto03.Listas.exe.config
+C:\ProjetoAula\04_ProgramandoComCSharpe\Projeto07_Interfaces\Projeto03.Listas\bin\Debug\Projeto03.Listas.exe
+C:\ProjetoAula\04_ProgramandoComCSharpe\Projeto07_Interfaces\Projeto03.Listas\bin\Debug\Projeto03.Listas.pdb
+C:\ProjetoAula\04_ProgramandoComCSharpe\Projeto07_Interfaces\Projeto03.Listas\obj\Debug\Projeto03.Listas.csproj.AssemblyReference.cache
+C:\ProjetoAula\04_ProgramandoComCSharpe\Projeto07_Interfaces\Projeto03.Listas\obj\Debug\Projeto03.Listas.csproj.SuggestedBindingRedirects.cache
+C:\ProjetoAula\04_ProgramandoComCSharpe\Projeto07_Interfaces\Projeto03.Listas\obj\Debug\Projeto03.Listas.csproj.CoreCompileInputs.cache
+C:\ProjetoAula\04_ProgramandoComCSharpe\Projeto07_Interfaces\Projeto03.Listas\obj\Debug\Projeto03.Listas.exe
+C:\ProjetoAula\04_ProgramandoComCSharpe\Projeto07_Interfaces\Projeto03.Listas\obj\Debug\Projeto03.Listas.pdb

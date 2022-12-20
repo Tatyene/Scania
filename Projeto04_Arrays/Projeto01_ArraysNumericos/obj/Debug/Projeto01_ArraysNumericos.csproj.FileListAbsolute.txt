@@ -1,0 +1,8 @@
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto01_ArraysNumericos\bin\Debug\Projeto01_ArraysNumericos.exe.config
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto01_ArraysNumericos\bin\Debug\Projeto01_ArraysNumericos.exe
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto01_ArraysNumericos\bin\Debug\Projeto01_ArraysNumericos.pdb
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto01_ArraysNumericos\obj\Debug\Projeto01_ArraysNumericos.csproj.AssemblyReference.cache
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto01_ArraysNumericos\obj\Debug\Projeto01_ArraysNumericos.csproj.SuggestedBindingRedirects.cache
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto01_ArraysNumericos\obj\Debug\Projeto01_ArraysNumericos.csproj.CoreCompileInputs.cache
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto01_ArraysNumericos\obj\Debug\Projeto01_ArraysNumericos.exe
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto04_Arrays\Projeto01_ArraysNumericos\obj\Debug\Projeto01_ArraysNumericos.pdb

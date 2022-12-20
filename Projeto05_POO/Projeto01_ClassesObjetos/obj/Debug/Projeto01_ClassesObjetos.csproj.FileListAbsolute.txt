@@ -1,0 +1,8 @@
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\Projeto01_ClassesObjetos\bin\Debug\Projeto01_ClassesObjetos.exe.config
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\Projeto01_ClassesObjetos\bin\Debug\Projeto01_ClassesObjetos.exe
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\Projeto01_ClassesObjetos\bin\Debug\Projeto01_ClassesObjetos.pdb
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\Projeto01_ClassesObjetos\obj\Debug\Projeto01_ClassesObjetos.csproj.AssemblyReference.cache
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\Projeto01_ClassesObjetos\obj\Debug\Projeto01_ClassesObjetos.csproj.SuggestedBindingRedirects.cache
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\Projeto01_ClassesObjetos\obj\Debug\Projeto01_ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\Projeto01_ClassesObjetos\obj\Debug\Projeto01_ClassesObjetos.exe
+C:\ProjetoAula\04_ProjetoCSharpe\Projeto05_POO\Projeto01_ClassesObjetos\obj\Debug\Projeto01_ClassesObjetos.pdb
