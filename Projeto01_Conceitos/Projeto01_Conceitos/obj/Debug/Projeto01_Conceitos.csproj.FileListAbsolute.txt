@@ -1,8 +1,0 @@
-C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto01_Conceitos\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.csproj.AssemblyReference.cache
-C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto01_Conceitos\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.csproj.SuggestedBindingRedirects.cache
-C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto01_Conceitos\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.csproj.CoreCompileInputs.cache
-C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto01_Conceitos\Projeto01_Conceitos\bin\Debug\PrimeiroPrograma.exe.config
-C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto01_Conceitos\Projeto01_Conceitos\bin\Debug\PrimeiroPrograma.exe
-C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto01_Conceitos\Projeto01_Conceitos\bin\Debug\PrimeiroPrograma.pdb
-C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto01_Conceitos\Projeto01_Conceitos\obj\Debug\PrimeiroPrograma.exe
-C:\Users\scania\Documents\Scania\04_ProgramandoComCSharp\Projeto01_Conceitos\Projeto01_Conceitos\obj\Debug\PrimeiroPrograma.pdb

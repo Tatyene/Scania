@@ -1,8 +1,0 @@
-C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto02_Variaveis\Projeto02_Variaveis\bin\Debug\Projeto02_Variaveis.exe.config
-C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto02_Variaveis\Projeto02_Variaveis\bin\Debug\Projeto02_Variaveis.exe
-C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto02_Variaveis\Projeto02_Variaveis\bin\Debug\Projeto02_Variaveis.pdb
-C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto02_Variaveis\Projeto02_Variaveis\obj\Debug\Projeto02_Variaveis.csproj.AssemblyReference.cache
-C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto02_Variaveis\Projeto02_Variaveis\obj\Debug\Projeto02_Variaveis.csproj.SuggestedBindingRedirects.cache
-C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto02_Variaveis\Projeto02_Variaveis\obj\Debug\Projeto02_Variaveis.csproj.CoreCompileInputs.cache
-C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto02_Variaveis\Projeto02_Variaveis\obj\Debug\Projeto02_Variaveis.exe
-C:\Users\scania\Documents\04_ProgramandoComCSharp\Projeto02_Variaveis\Projeto02_Variaveis\obj\Debug\Projeto02_Variaveis.pdb
