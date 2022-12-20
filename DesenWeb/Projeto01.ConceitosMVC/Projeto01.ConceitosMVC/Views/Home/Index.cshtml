@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h2>Bem vindo ao ASP.NET Core MVC.</h2>
+    <h3>Escolha uma opção</h3>
+    @*<ul>
+        <li>@Html.ActionLink("Exibir Texto Puro", "ExibirTexto", "Exemplos")</li>
+        <li>@Html.ActionLink("Exibir action 'Conteudo'", "Conteudo", "Exemplos")</li>
+        <li>@Html.ActionLink("Cadastro de Produtos", "Cadastro", "Exemplos")</li>
+        <li>@Html.ActionLink("Cadastro de Produtos - Models", "CadastroModel", "Exemplos")</li>
+        <li>@Html.ActionLink("Cadastro de Produtos - Tag Helper", "CadastroModelTag", "Exemplos")</li>
+    </ul>*@
+    <ul>
+        <li><a asp-action="ExibirTexto" asp-controller="Exemplos">Exibir Texto Puro</a></li>
+        <li><a asp-action="Conteudo" asp-controller="Exemplos">Exibir action 'Conteudo'</a></li>
+        <li><a asp-action="Cadastro" asp-controller="Exemplos">Cadastro de Produtos</a></li>
+        <li><a asp-action="CadastroModel" asp-controller="Exemplos">Cadastro de Produtos - Model</a></li>
+        <li><a asp-action="CadastroModelTag" asp-controller="Exemplos">Cadastro de Produtos - Tag Helper</a></li>
+        <li><a asp-action="Index" asp-controller="Pessoas">Clientes e Fornecedores</a></li>
+    </ul>
+
+        
+</div>

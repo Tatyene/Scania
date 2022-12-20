@@ -1,0 +1,9 @@
+﻿@model Produto // objeto passado para a view para ser 'mostrada' na view. Só pode ser passado 1objeto por view, por isso ele é 'fortemente tipado'.
+
+<div class="margem">
+    <h1>Dados recebidos da pessoa</h1>
+    <span>Código: @Model.Codigo</span><br /> <!--o 'Model' é uma propriedade dinâmica da classe, que assumi o objeto definido no 'model' passado no começo da página-->
+    <span>Descrição: @Model.Descricao</span><br />
+    <span>Preço: @Model.Preco.ToString("c")</span><br />
+
+</div>

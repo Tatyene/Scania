@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elorian\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elorian\\.nuget\\packages"
+    ]
+  }
+}
